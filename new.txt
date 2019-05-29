@@ -1,9 +1,3 @@
-new file
-file modify
-modify more
-branch
-2
-3
-feature
+branch_1 1
 
 test
